@@ -22,11 +22,11 @@ repository               : "QinghangLiu/QinghangLiu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Qinghang Liu(刘庆航)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : #"Short biography for the left-hand sidebar"
+  location         : "Beijing, China"
+  employer         : "Peking University"
   uri              : # URL
   email            : "qinghangliu@stu.pku.edu.cn" 
 
