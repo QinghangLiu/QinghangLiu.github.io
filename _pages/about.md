@@ -13,10 +13,9 @@ I am very fortunate to join [Autonomous Robots Lab](http://www2.coe.pku.edu.cn/f
 
 You can find my CV here:
 
-Most of my research focus on path planning of very-large-scale-multiagent system. In macroscopic stage, we describe the positions of robots using a time-varying pdf and in microscopic control, we use MPC to control the robots to follow the pdf. My algorithm can generate collision-free, energy-saving trajectories for hundreds and thousands of agents between their initial posions to target positions.Here are some of the snapshot of my simulation result. You can also [click here](https://github.com/QinghangLiu/QinghangLiu.github.io/blob/master/assets/tinywow_74e45d2ce8ffd2fc072c76c5c7fd8f1d_72691863%20(1).gif) to watch this video.
+Most of my research focus on path planning of very-large-scale-multiagent system. In macroscopic stage, we describe the positions of robots using a time-varying pdf and in microscopic control, we use MPC to control the robots to follow the pdf. My algorithm can generate collision-free, energy-saving trajectories for hundreds and thousands of agents between their initial posions to target positions.Here are some of the snapshot of my simulation result. 
 
 ![MPC](../images/tinywow_74e45d2ce8ffd2fc072c76c5c7fd8f1d_72691452_wps图片_341.png)
 
-Now I am trying to design an RL algorithm to generate better pdf trajectories and make the algorithm more generalized. I have made some progress and I will continue this work. [Click here](../assets/tinywow_Adaptive DOC PRM_72718372.gif) to watch the full video!
-![RL for swarm](../images/tinywow_Adaptive DOC PRM_72718372_wps图片_479.png)
+Now I am trying to design an RL algorithm to generate better pdf trajectories and make the algorithm more generalized. I have made some progress and I will continue this work. 
 ![hh](../assets/tinywow_Adaptive DOC PRM_72718372.gif)
