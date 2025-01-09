@@ -17,5 +17,5 @@ Most of my research focus on path planning of very-large-scale-multiagent system
 
 ![MPC](../assets/tinywow_74e45d2ce8ffd2fc072c76c5c7fd8f1d_72691863 (1).gif)
 
-Now I am trying to design an RL algorithm to generate better pdf trajectories and make the algorithm more generalized. I have made some progress in construct a trajectory for Guassian distribution. I will continue this work in the future. 
+Now I am trying to design an RL algorithm to generate better pdf trajectories and make the algorithm more generalized. I have made some progress in constructing a trajectory for Guassian distribution. I will continue this work in the future. 
 ![hh](../assets/tinywow_Adaptive DOC PRM_72718372.gif)
