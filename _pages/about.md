@@ -17,5 +17,6 @@ Most of my research focus on path planning of very-large-scale-multiagent system
 
 ![MPC](../images/tinywow_74e45d2ce8ffd2fc072c76c5c7fd8f1d_72691452_wps图片_341.png)
 
-Now I am trying to design an RL algorithm to generate better pdf trajectories and make the algorithm more generalized. I have made some progress and I will continue this work. Click here to watch the full video!
+Now I am trying to design an RL algorithm to generate better pdf trajectories and make the algorithm more generalized. I have made some progress and I will continue this work. [Click here](../assets/tinywow_Adaptive DOC PRM_72718372.gif) to watch the full video!
 ![RL for swarm](../images/tinywow_Adaptive DOC PRM_72718372_wps图片_479.png)
+![hh](../assets/tinywow_Adaptive DOC PRM_72718372.gif)
