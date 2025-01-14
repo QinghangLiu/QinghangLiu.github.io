@@ -13,9 +13,9 @@ I am very fortunate to join [Autonomous Robots Lab](http://www2.coe.pku.edu.cn/f
 
 You can find my CV here:[Qinghang Liu's CV](../assets/RenderCV_EngineeringResumes_Theme (1).pdf)
 
-Most of my research focus on path planning of very-large-scale-multi-agent systems. In macroscopic stage, we describe the positions of robots using a time-varying pdf and in microscopic control, we use MPC to control the robots to follow the pdf. My algorithm can generate collision-free, energy-saving trajectories for hundreds and thousands of agents between their initial positions to target positions.
+Most of my research focus on path planning of very-large-scale-multi-agent systems. In macroscopic stage, we describe the positions of robots using a time-varying probability density function and in microscopic control, we use MPC to control the robots to follow the PDF. My algorithm can generate collision-free, energy-saving trajectories for hundreds and thousands of agents between their initial positions and target positions.
 
 ![MPC](../assets/tinywow_74e45d2ce8ffd2fc072c76c5c7fd8f1d_72691863 (1).gif)
 
-Now I am trying to design an RL algorithm to generate better pdf trajectories and make the algorithm more generalized. I have made some progress in constructing a trajectory for Guassian distribution. I will continue this work in the future. 
+Now I am trying to design an RL algorithm to generate better PDF trajectories and make the algorithm more generalized. I have made some progress in constructing a trajectory for Guassian distribution. I will continue this work in the future. 
 ![hh](../assets/tinywow_Adaptive DOC PRM_72718372.gif)
